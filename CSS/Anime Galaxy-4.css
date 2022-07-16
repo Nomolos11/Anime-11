@@ -1,0 +1,21 @@
+body{
+    background-color: turquoise;
+    color: blue ;
+}
+
+audio{
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    background-color: brown;
+    padding: 3px;
+}
+
+video{
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    padding: 3px;
+    background-color: aqua;
+    width: 400px;
+}

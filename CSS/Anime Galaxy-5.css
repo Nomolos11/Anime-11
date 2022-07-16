@@ -1,0 +1,21 @@
+body{
+    background-color: chartreuse;
+    color: brown;
+}
+
+audio{
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    padding: 3px;
+    background-color: yellow;
+}
+
+video{
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    padding: 3px;
+    background-color: aqua;
+    width: 400px;
+}

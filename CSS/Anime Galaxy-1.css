@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    color: crimson;
+}
+
+h1{
+    font-size: 33px;
+    opacity: 100%;
+}
+
+table, tr, th, td{
+    border: 3px;
+    border-style: double;
+    padding: 2px;
+    border-color: azure;
+}
+
+audio{
+    border: 2px;
+    padding: 5px;
+    background-color: red;
+    color: black;
+    border-style: double;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+    border: 2px;
+    border-style: double;
+    padding: 5px;
+    border-color: black;
+}

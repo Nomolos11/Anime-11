@@ -1,0 +1,29 @@
+body{
+    background-color: chartreuse;
+    color: brown;
+}
+
+audio{
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    padding: 3px;
+    background-color: yellow;
+}
+
+.vinland{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+video{
+    border: 2px;
+    border-color: black;
+    border-style: double;
+    padding: 3px;
+    background-color: aqua;
+    width: 400px;
+}
